@@ -1,0 +1,14 @@
+/* css for the section which holds all the card */
+section.pricing {
+    background: #007bff;
+    background: linear-gradient(to right, #0062E6, #ee33ff);
+    min-height: 100vh;
+  }
+
+  h1{
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  
+  
